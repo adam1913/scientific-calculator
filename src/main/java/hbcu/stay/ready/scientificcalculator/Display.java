@@ -1,4 +1,6 @@
 package hbcu.stay.ready.scientificcalculator;
+import hbcu.stay.ready.scientificcalculator.Display;
+
 import java.util.*;
 
 public class Display {
@@ -20,10 +22,11 @@ public class Display {
     }
 
     public void clear() {
-       this.currentNumber= 0;
+
 
 
     }
+
 }
 
 
